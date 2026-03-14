@@ -1,0 +1,15 @@
+nltk
+spacy
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+requests
+ipykernel
+wordcloud
+gensim
+pyLDAvis
+pyarrow
+tensorflow
