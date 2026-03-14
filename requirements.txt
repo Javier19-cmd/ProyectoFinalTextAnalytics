@@ -3,6 +3,7 @@ spacy
 transformers
 scikit-learn
 pandas
+polars
 numpy
 matplotlib
 seaborn
